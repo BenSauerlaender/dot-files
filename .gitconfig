@@ -1,0 +1,7 @@
+[user]
+	name = BenSauerlaender
+	email = Ben.Sauerlaender@Student.HTW-Berlin.de
+[core]
+	autocrlf = input
+[color]
+	ui = true
